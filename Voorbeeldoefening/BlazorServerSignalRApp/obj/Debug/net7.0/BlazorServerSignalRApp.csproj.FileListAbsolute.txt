@@ -1,0 +1,84 @@
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\appsettings.json
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\BlazorServerSignalRApp.staticwebassets.runtime.json
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\BlazorServerSignalRApp.exe
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\BlazorServerSignalRApp.deps.json
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\BlazorServerSignalRApp.runtimeconfig.json
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\BlazorServerSignalRApp.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\BlazorServerSignalRApp.pdb
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.Extensions.Features.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.csproj.AssemblyReference.cache
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.AssemblyInfoInputs.cache
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.AssemblyInfo.cs
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.csproj.CoreCompileInputs.cache
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.RazorAssemblyInfo.cache
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.RazorAssemblyInfo.cs
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets\msbuild.BlazorServerSignalRApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorServerSignalRApp.props
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorServerSignalRApp.props
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorServerSignalRApp.props
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\scopedcss\bundle\BlazorServerSignalRApp.styles.css
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\scopedcss\projectbundle\BlazorServerSignalRApp.bundle.scp.css
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.csproj.CopyComplete
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\refint\BlazorServerSignalRApp.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.pdb
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.genruntimeconfig.cache
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\BlazorServerSignalRApp\obj\Debug\net7.0\ref\BlazorServerSignalRApp.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\bin\Debug\net7.0\appsettings.json
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\bin\Debug\net7.0\BlazorServerSignalRApp.staticwebassets.runtime.json
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\bin\Debug\net7.0\BlazorServerSignalRApp.exe
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\bin\Debug\net7.0\BlazorServerSignalRApp.deps.json
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\bin\Debug\net7.0\BlazorServerSignalRApp.runtimeconfig.json
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\bin\Debug\net7.0\BlazorServerSignalRApp.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\bin\Debug\net7.0\BlazorServerSignalRApp.pdb
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.Extensions.Features.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.csproj.AssemblyReference.cache
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.AssemblyInfoInputs.cache
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.AssemblyInfo.cs
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.csproj.CoreCompileInputs.cache
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.RazorAssemblyInfo.cache
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.RazorAssemblyInfo.cs
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets\msbuild.BlazorServerSignalRApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets\msbuild.build.BlazorServerSignalRApp.props
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.BlazorServerSignalRApp.props
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.BlazorServerSignalRApp.props
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\obj\Debug\net7.0\scopedcss\bundle\BlazorServerSignalRApp.styles.css
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\obj\Debug\net7.0\scopedcss\projectbundle\BlazorServerSignalRApp.bundle.scp.css
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.csproj.CopyComplete
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\obj\Debug\net7.0\refint\BlazorServerSignalRApp.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.pdb
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\obj\Debug\net7.0\BlazorServerSignalRApp.genruntimeconfig.cache
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\BlazorServerSignalRApp\obj\Debug\net7.0\ref\BlazorServerSignalRApp.dll
