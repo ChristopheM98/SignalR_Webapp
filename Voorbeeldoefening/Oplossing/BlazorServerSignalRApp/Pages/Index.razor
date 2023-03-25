@@ -1,0 +1,87 @@
+﻿@page "/"
+@using Microsoft.AspNetCore.SignalR.Client
+@inject NavigationManager NavManager
+@implements IAsyncDisposable
+
+<div class="form-group">
+    <label>
+        User: <input @bind="userInput" : />
+        @*De bind zorgt ervoor dat we in de @code{} de userInput doorkrijgen*@
+    </label>
+</div>
+<div class="form-group">
+    <label>
+        Message: <input @bind="messageInput" : />
+    </label>
+</div>
+<button @onclick="Send" disabled="@(!IsConnected)">Versturen</button>
+@*Als we geen connectie hebben met de hub wordt de knop disabled*@
+
+<hr />
+<ul>
+    @foreach (string message in messages)
+    {
+        <li>@message</li>
+    }
+</ul>
+
+@code {
+    private HubConnection? hubConnection;
+    //Gaat naar hub connecteren
+    private List<string> messages = new List<string>();
+    //Alle messages tonen
+    private string? userInput;
+    private string? messageInput;
+
+    //Client side -> ontvanger van berichten
+    protected override async Task OnInitializedAsync()
+    {
+        //Client connectie naar de hub
+        //Gebruikt NavManager die we vanboven @inject hebben
+        //NavManager weet de url van de website met het starten van de app (localhost:.../chathub -> die in Program.cs gezet hebben)
+        //AutomaticReconnect zorgt dat het automatisch gaat herverbinden bij verlies van connectie
+        // -> probeert 8 keer opnieuw te verbinden in tijdspanne van +- een minuut
+        hubConnection = new HubConnectionBuilder().WithUrl(NavManager.ToAbsoluteUri("/chathub")).WithAutomaticReconnect().Build();
+
+        //Dit ontvangt de berichten op de client side
+        //Luistert naar berichten op "ReceiveMessage" (die in ChatHub is aangemaakt)
+        //Bij sendallclient ReceiveMessage dit gaat getriggerd worden
+        //<string, string> -> user, message
+        hubConnection.On<string, string>("ReceiveMessage", (user, message) =>
+        {
+            var formattedMessage = $"{user}: {message}";
+            messages.Add(formattedMessage);
+            //Toevoegen aan alle messages
+            InvokeAsync(StateHasChanged);
+            //We moeten Blazer laten weten dat er een nieuwe waarde is gekomen, daarom de StateHasChanged
+        });
+
+        //Hubconnectie openen met de server
+        await hubConnection.StartAsync();
+    }
+
+
+    //Methode om berichten te sturen naar de hub
+    private async Task Send()
+    {
+        //Als hubConnection bestaat
+        if (hubConnection is not null)
+        {
+            //Naam van methode in ChatHub klasse
+            //Gaat naar alle clienten 
+            await hubConnection.SendAsync("SendMessage", userInput, messageInput);
+        }    
+    }
+
+    //Voor het disablen van de knop bij geen connectie
+    public bool IsConnected => hubConnection?.State == HubConnectionState.Connected;
+
+    //Gaat de connectie met de server sluiten bij het sluiten van de webpagina
+    public async ValueTask DisposeAsync()
+    {
+        if (hubConnection is not null)
+        {
+            await hubConnection.DisposeAsync();
+        }
+    }
+}

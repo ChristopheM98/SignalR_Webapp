@@ -1,0 +1,276 @@
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\WPFClient.exe.config
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\WPFClient.exe
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\WPFClient.pdb
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\Microsoft.Extensions.Features.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\System.Buffers.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\System.IO.Pipelines.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\System.Memory.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\System.Numerics.Vectors.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\System.Text.Encodings.Web.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\System.Text.Json.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\System.Threading.Channels.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\System.ValueTuple.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\Microsoft.Extensions.Features.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\System.Buffers.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\System.IO.Pipelines.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\System.Memory.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\System.Numerics.Vectors.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\System.Text.Encodings.Web.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\System.Text.Json.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\System.Threading.Channels.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\bin\Debug\System.ValueTuple.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\obj\Debug\WPFClient.csproj.AssemblyReference.cache
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\obj\Debug\WPFClient.csproj.SuggestedBindingRedirects.cache
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\obj\Debug\MainWindow.g.cs
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\obj\Debug\App.g.cs
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\obj\Debug\WPFClient_MarkupCompile.cache
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\obj\Debug\WPFClient_MarkupCompile.lref
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\obj\Debug\MainWindow.baml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\obj\Debug\WPFClient.g.resources
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\obj\Debug\WPFClient.Properties.Resources.resources
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\obj\Debug\WPFClient.csproj.GenerateResource.cache
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\obj\Debug\WPFClient.csproj.CoreCompileInputs.cache
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\obj\Debug\WPFClient.csproj.CopyComplete
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\obj\Debug\WPFClient.exe
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\BlazorServerSignalRApp\WPFClient\obj\Debug\WPFClient.pdb
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\WPFClient.exe.config
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\WPFClient.exe
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\WPFClient.pdb
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.Extensions.Features.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\System.Buffers.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\System.IO.Pipelines.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\System.Memory.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\System.Numerics.Vectors.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\System.Text.Encodings.Web.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\System.Text.Json.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\System.Threading.Channels.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\System.ValueTuple.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.Extensions.Features.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\System.Buffers.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\System.IO.Pipelines.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\System.Memory.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\System.Numerics.Vectors.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\System.Text.Encodings.Web.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\System.Text.Json.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\System.Threading.Channels.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\bin\Debug\System.ValueTuple.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\obj\Debug\WPFClient.csproj.AssemblyReference.cache
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\obj\Debug\WPFClient.csproj.SuggestedBindingRedirects.cache
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\obj\Debug\MainWindow.g.cs
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\obj\Debug\App.g.cs
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\obj\Debug\WPFClient_MarkupCompile.cache
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\obj\Debug\WPFClient_MarkupCompile.lref
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\obj\Debug\MainWindow.baml
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\obj\Debug\WPFClient.g.resources
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\obj\Debug\WPFClient.Properties.Resources.resources
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\obj\Debug\WPFClient.csproj.GenerateResource.cache
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\obj\Debug\WPFClient.csproj.CoreCompileInputs.cache
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\obj\Debug\WPFClient.csproj.CopyComplete
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\obj\Debug\WPFClient.exe
+C:\Thomas More 2de jaar\Webapplicaties\Project SignalR\Voorbeeldoefening\WPFClient\obj\Debug\WPFClient.pdb
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\WPFClient.exe.config
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\WPFClient.exe
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\WPFClient.pdb
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.Extensions.Features.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\System.Buffers.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\System.IO.Pipelines.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\System.Memory.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\System.Numerics.Vectors.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\System.Text.Encodings.Web.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\System.Text.Json.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\System.Threading.Channels.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\System.ValueTuple.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.Extensions.Features.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\System.Buffers.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\System.IO.Pipelines.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\System.Memory.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\System.Numerics.Vectors.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\System.Text.Encodings.Web.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\System.Text.Json.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\System.Threading.Channels.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\bin\Debug\System.ValueTuple.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\obj\Debug\WPFClient.csproj.AssemblyReference.cache
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\obj\Debug\WPFClient.csproj.SuggestedBindingRedirects.cache
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\obj\Debug\MainWindow.g.cs
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\obj\Debug\App.g.cs
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\obj\Debug\WPFClient_MarkupCompile.cache
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\obj\Debug\WPFClient_MarkupCompile.lref
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\obj\Debug\MainWindow.baml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\obj\Debug\WPFClient.g.resources
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\obj\Debug\WPFClient.Properties.Resources.resources
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\obj\Debug\WPFClient.csproj.GenerateResource.cache
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\obj\Debug\WPFClient.csproj.CoreCompileInputs.cache
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\obj\Debug\WPFClient.csproj.CopyComplete
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\obj\Debug\WPFClient.exe
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\WPFClient\obj\Debug\WPFClient.pdb
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\WPFClient.exe.config
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\WPFClient.exe
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\WPFClient.pdb
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\Microsoft.Extensions.Features.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\System.Buffers.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\System.IO.Pipelines.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\System.Memory.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\System.Numerics.Vectors.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\System.Text.Encodings.Web.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\System.Text.Json.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\System.Threading.Channels.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\System.ValueTuple.dll
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\Microsoft.Extensions.Features.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\System.Buffers.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\System.IO.Pipelines.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\System.Memory.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\System.Numerics.Vectors.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\System.Text.Encodings.Web.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\System.Text.Json.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\System.Threading.Channels.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\bin\Debug\System.ValueTuple.xml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\obj\Debug\WPFClient.csproj.AssemblyReference.cache
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\obj\Debug\WPFClient.csproj.SuggestedBindingRedirects.cache
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\obj\Debug\MainWindow.g.cs
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\obj\Debug\App.g.cs
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\obj\Debug\WPFClient_MarkupCompile.cache
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\obj\Debug\WPFClient_MarkupCompile.lref
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\obj\Debug\MainWindow.baml
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\obj\Debug\WPFClient.g.resources
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\obj\Debug\WPFClient.Properties.Resources.resources
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\obj\Debug\WPFClient.csproj.GenerateResource.cache
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\obj\Debug\WPFClient.csproj.CoreCompileInputs.cache
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\obj\Debug\WPFClient.csproj.CopyComplete
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\obj\Debug\WPFClient.exe
+C:\Thomas More 2de jaar\Webapplicaties\Project_GTIGPRA2.1_OND_3\Voorbeeldoefening\Oplossing\WPFClient\obj\Debug\WPFClient.pdb
